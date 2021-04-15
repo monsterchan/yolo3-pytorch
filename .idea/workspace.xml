@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1282de21-bbb7-4ac7-ba05-e4cf8780eec7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/remote-mappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/yolo3-pytorch1111.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VOCdevkit/VOC2007/ImageSets/Main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VOCdevkit/VOC2007/voc2yolo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_dr_txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_gt_txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/street.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/highway.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/out.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model_data/coco_classes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model_data/simhei.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model_data/voc_classes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model_data/yolo_weights.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nets/darknet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nets/yolo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nets/yolo_training.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/dataloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/highway.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/input.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/input1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/input2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videoForFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voc_annotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yolo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/常见问题汇总.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="21" />
+    <option name="y" value="5" />
+    <option name="width" value="1785" />
+    <option name="height" value="1018" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yolo3-pytorch1111" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yolo3-pytorch" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1282de21-bbb7-4ac7-ba05-e4cf8780eec7" name="Default Changelist" comment="" />
+      <created>1618482983459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618482983459</updated>
+      <workItem from="1618482984694" duration="62000" />
+      <workItem from="1618483076956" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="100000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="2" width="1428" height="876" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25328466" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
